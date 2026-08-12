@@ -304,19 +304,19 @@ A personal repository documenting my Data Structures & Algorithms practice using
 
 # 📈 GitHub Analytics
 
+
 <p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Atta-Ur-Rehman05&show_icons=true&theme=github_dark&hide_border=true"/>
-
-[![GitHub Streak](https://github-readme-streak-stats-bay-chi.vercel.app/?user=YOUR_GITHUB_USERNAME)](https://git.io/streak-stats)
-
+  <img 
+    src="https://github-readme-streak-stats.herokuapp.com/?user=Atta-Ur-Rehman05&theme=github-dark-blue&hide_border=true" 
+    alt="GitHub Streak"
+  />
 </p>
 
-
 <p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Atta-Ur-Rehman05&theme=github-dark&hide_border=true"/>
-
+  <img 
+    src="https://github-readme-activity-graph.vercel.app/graph?username=Atta-Ur-Rehman05&theme=github-compact&hide_border=true" 
+    alt="GitHub Activity Graph"
+  />
 </p>
 ---
 
